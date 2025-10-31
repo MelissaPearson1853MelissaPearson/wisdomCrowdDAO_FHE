@@ -1,4 +1,4 @@
-```markdown
+
 # WisdomCrowdDAO_FHE: Harnessing Collective Intelligence with Privacy
 
 WisdomCrowdDAO_FHE is an innovative governance framework powered by **Zama's Fully Homomorphic Encryption (FHE) technology**. Designed for complex decision-making, this decentralized autonomous organization (DAO) leverages the "wisdom of the crowd" to help teams and communities arrive at optimal collective decisions. Utilizing homomorphic encryption, it ensures that privacy is maintained while effectively aggregating the insights and judgments of all members involved.
